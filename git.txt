@@ -1,4 +1,4 @@
- 什么是Get？
+﻿ 什么是Get？
 	分布式版本控制系统
 Get的诞生
 	Linux linus
@@ -54,3 +54,4 @@ Get的诞生
 			$ git add 文件名
 		3 提交
 			$ git commit -m "信息"
+没有修改
